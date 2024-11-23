@@ -3,7 +3,7 @@
 Este repositório contém dois ambientes distintos para a execução dos serviços com `Docker Compose`. A estrutura é organizada em duas pastas:
 
 - **aula/**: Ambiente que será utilizado durante a aula.
-- **referencial/**: Ambiente de apoio que contém todos os códigos finalizados como referência.
+- **referencia/**: Ambiente de apoio que contém todos os códigos finalizados como referência.
 
 ## Estrutura do Projeto
 
